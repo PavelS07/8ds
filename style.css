@@ -1,0 +1,30 @@
+body {
+  padding:0;
+  margin:0;
+  overflow:hidden;
+height: 600px;
+}
+canvas {
+  padding:0;
+  margin:0;
+}
+div.btnbg {
+  position:fixed;
+  left:0;
+  top:0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding-top: 300px;
+} 
+
+.love {
+  font-size: 36px;
+  overflow: hidden;
+  text-shadow:
+    0 0 tomato,
+    0 0 yellowgreen,
+    0 0 skyblue;
+  color: transparent;
+  transition: all 1s;
+}
